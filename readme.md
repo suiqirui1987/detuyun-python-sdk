@@ -1,4 +1,4 @@
-# 得图云 Python SDK<a style="font-size:16px" href="./python-sdk.rar">[下载]</a>
+# 得图云 Python SDK<a style="font-size:16px" href="https://github.com/suiqirui1987/detuyun-python-sdk/archive/master.zip">[下载]</a>
 
 
 得图云存储 Python SDK，基于<a href="http://www.detuyun.com/docs/page1.html" target="_blank">得图云存储 HTTP REST API 接口</a> 开发。该SDK不再兼容 1.x 的版本，相比旧版本，新版接口设计和实现更加 Pythonic ，且代码风格完全符合 <a href="https://pypi.python.org/pypi/pep8" target="_blank">pep8</a> 规范。
